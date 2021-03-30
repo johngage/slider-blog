@@ -8,7 +8,7 @@ This executes the gallery-slider shortcode command in /content/home/try-gallerys
 The source directory is named in the shortcode, relative to /static.  Update by changing /layouts/shortcodes/tb-slider.html, line 89 from "static" to "assets"
 
 
-{{< gallery-slider dir="/media/" width="400px" height="400px" auto-slide="2000" >}}
+{{< gallery-slider dir="/media" width="400px" height="400px" auto-slide="2000" >}}
 
 Created by tbiering/hugo-slider-shortcode <a href="https://github.com/tbiering/hugo-slider-shortcode"> Thomas Biering </a>
 
