@@ -1,3 +1,11 @@
+# First build: 28 March 2020
+
+- Checking /assets: no media directory, so no place to put images for slider.  /assets/images is there. Populate with unique images for test. 
+- Don't know where the actual shortcode file resides.  Is it pulled from the Wowchemy Github site? 
+- 
+
+
+
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
 # Blog Template for [Wowchemy Website Builder](https://wowchemy.com)
