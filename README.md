@@ -1,10 +1,11 @@
 # First build: 28 March 2020
 
-- Checking /assets: no media directory, so no place to put images for slider.  /assets/images is there. I will populate three directories with unique images for each for this test
+- On first download, in /assets: no media directory, so no place to put images for slider.  /assets/images is there. For test, populate three directories with unique images.
   - /assets/media--the future standard location, but not created in this Wowchemy build from template.
   - /assets/images--the old standard location
   - /static/media--the older standard location
 - Don't know where the actual shortcode file resides.  Is it pulled from the Wowchemy Github site when slider is invoked? 
+- Inserted Thomas Biering's Hugo shortcode for carousel-slider functionality.  Can change line 89 from /static/ to /assets/;  sometimes works
 
 Inserted example of Hugo shortcode written by tbiering: https://github.com/tbiering/hugo-slider-shortcode in /layouts/partials/widgets/tbiering-slider.html
 
