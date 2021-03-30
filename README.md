@@ -5,7 +5,8 @@
   - /assets/images--the old standard location
   - /static/media--the older standard location
 - Don't know where the actual shortcode file resides.  Is it pulled from the Wowchemy Github site when slider is invoked? 
-- 
+
+Inserted example of Hugo shortcode written by tbiering: https://github.com/tbiering/hugo-slider-shortcode in /layouts/partials/widgets/tbiering-slider.html
 
 
 
