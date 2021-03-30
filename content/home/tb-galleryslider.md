@@ -8,7 +8,7 @@ This executes the gallery-slider shortcode in /content/home/tb-galleryslider.md
 The source directory is named in the shortcode, relative to /static.  Update by changing /layouts/partials/widgets/tb-slider.html, line 89 from "static" to "assets"
 
 
-{{< gallery-slider dir="/media/" width="200px" height="200px" auto-slide="2000" >}}
+{{< gallery-slider dir="/media/" width="400px" height="400px" auto-slide="2000" >}}
 
 
 
