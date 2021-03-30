@@ -2,7 +2,7 @@
 weight: 1
 title: Slider-Gallery-Carousel
 ---
-
+This executes the gallery-slider shortcode in /content/home/tb-galleryslider.md
 
 ### This plays images in /static/media
 The source directory is named in the shortcode, relative to /static.  Update by changing /layouts/partials/widgets/tb-slider.html, line 89 from "static" to "assets"
