@@ -1,7 +1,7 @@
 # First build: 28 March 2020
 
 - Checking /assets: no media directory, so no place to put images for slider.  /assets/images is there. I will populate three directories with unique images for each for this test
-  - /assets/media--the future standard location
+  - /assets/media--the future standard location, but not created in this Wowchemy build from template.
   - /assets/images--the old standard location
   - /static/media--the older standard location
 - Don't know where the actual shortcode file resides.  Is it pulled from the Wowchemy Github site when slider is invoked? 
